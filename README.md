@@ -1,4 +1,4 @@
-# Title <!-- omit in toc -->
+# Add / Remove Control Classes <!-- omit in toc -->
 
 A utility to add / remove classes from the *Classes* property of controls. 
 
